@@ -2,7 +2,7 @@
 
 
 - 🎓 I’m currently doing my bachelor's in Computer Science from GCU Lahore
-- 💬 Ask me about Anything i'll try ti help as much as i can.
+- 💬 Ask me about Anything i'll try to help as much as i can.
 - 📫 How to reach me: [gmail]  (mbilal.sajjad951@gmail.com) | mohammad_bilal951 [insta]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: iam a Hafiz(memorised Quran) <3 | I love learning new languages[ spoken as well as programming :) ]
