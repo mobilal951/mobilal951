@@ -7,3 +7,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: iam a Hafiz(memorised Quran) <3 | I love learning new languages[ spoken as well as programming :) ]
 - Goals 2021 : AI,ML
+
+<a href="https://github.com/mohammadbilal951">
+<img align="center" alt="Bilal's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mohammadbilal951&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+
+<a href="https://github.com/mohammadbilal951">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mohammadbilal951&layout=compact&theme=radical" />
+</a>
