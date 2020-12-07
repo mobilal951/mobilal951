@@ -10,7 +10,7 @@
   <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedIn&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/mohammad_bilal951/" target="_blank" rel="nofollow noopener noreferrer">
-  <img alt="instagram" src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img alt="instagram" src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 - 😄 Pronouns: He/Him
