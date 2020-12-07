@@ -19,10 +19,12 @@
 
 
 
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohammadbilal951)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadbilal951&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/mohammadbilal951">
-<img align="center" alt="Bilal's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mohammadbilal951&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
-<a href="https://github.com/mohammadbilal951">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mohammadbilal951&layout=compact&theme=radical" />
-</a>
+
+
+
