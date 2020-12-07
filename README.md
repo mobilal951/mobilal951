@@ -29,7 +29,7 @@
 <br />
 <br />
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohammadbilal951)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohammadbilal951)](https://github.com/mohammadbilal951/github-readme-stats)
  
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadbilal951&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
