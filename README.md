@@ -4,7 +4,7 @@
 - 💬 Ask me about Anything i'll try to help as much as i can.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: iam a Hafiz(memorised Quran) <3 | I love learning new languages[ spoken as well as programming :) ]
-- Goals 2021 : AI,ML
+- Goals 2021 : AI,ML,Blockchain,Cloud <3
 - 📫 How to reach me: 
 <a href="mailto:mbilal.sajjad951@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
