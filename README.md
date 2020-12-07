@@ -15,6 +15,7 @@
 <a href="https://www.instagram.com/mohammad_bilal951/" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+.
 
 <a href="https://github.com/mohammadbilal951">
 <img align="center" alt="Bilal's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mohammadbilal951&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
