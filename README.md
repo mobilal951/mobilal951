@@ -15,6 +15,11 @@
 <a href="https://www.instagram.com/mohammad_bilal951/" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+![GitHub followers](https://img.shields.io/github/followers/saadhaxxan?label=follow&style=social)
+
+<br />
+<br />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saadhaxxan" alt="Saad Hassan" /> </p>
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
