@@ -15,7 +15,7 @@
 <a href="https://www.instagram.com/mohammad_bilal951/" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-![GitHub followers](https://img.shields.io/github/followers/saadhaxxan?label=follow&style=social)
+[![GitHub followers](https://img.shields.io/github/followers/saadhaxxan?label=follow&style=social)
 
 <br />
 <br />
