@@ -3,7 +3,7 @@
 - 🎓 I’m currently doing my bachelor's in Computer Science from GCU Lahore
 - 💬 Ask me about Anything i'll try to help as much as i can.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: iam a Hafiz(memorised Quran) <3 | I love learning new languages[ spoken as well as programming :) ]
+<!-- - ⚡ Fun fact: iam a Hafiz(memorised Quran) <3 | I love learning new languages[ spoken as well as programming :) ] -->
 - Goals 2021 : AI,ML,Blockchain,Cloud <3
 - 📫 How to reach me: 
 <a href="mailto:mbilal.sajjad951@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
