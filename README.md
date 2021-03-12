@@ -1,7 +1,6 @@
 ### Hi This is Muhammad Bilal 👋
 
 - 🎓 I’m currently doing my bachelor's in Computer Science from GCU Lahore
-- 💬 Ask me about Anything i'll try to help as much as i can.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: 
 <a href="mailto:mbilal.sajjad951@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
