@@ -2,6 +2,7 @@
 
 - 🎓 I’m currently doing my bachelor's in Computer Science from GCU Lahore
 - 😄 Pronouns: He/Him
+- <3 Interests : AI/ML, Data Science , Blockchain
 - 📫 How to reach me: 
 <a href="mailto:mbilal.sajjad951@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
   <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
